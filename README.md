@@ -55,3 +55,6 @@ Then, below the add_dots function, write another function named remove_dots that
 If both functions are correct, calling remove_dots(add_dots(string)) should return back the original string for any string.
 
 (You may assume that the input to add_dots does not itself contain any dots.)
+
+### Counting syllables
+Define a function named count that takes a single parameter. The parameter is a string. The string will contain a single word divided into syllables by hyphens, such as these:
